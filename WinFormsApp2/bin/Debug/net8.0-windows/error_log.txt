@@ -1,0 +1,8 @@
+[5/22/2025 4:37:52 PM] Ошибка: Ошибка регистрации: Пользователь с таким именем уже зарегистрирован
+   at PasswordManager.LoginForm.RegisterUser(String username, String password) in C:\Users\nmart\source\repos\WinFormsApp2\WinFormsApp2\LoginForm.cs:line 280
+   at PasswordManager.LoginForm.btnRegister_Click(Object sender, EventArgs e) in C:\Users\nmart\source\repos\WinFormsApp2\WinFormsApp2\LoginForm.cs:line 74
+
+[5/22/2025 4:44:19 PM] Ошибка: Ошибка регистрации: Пользователь с таким именем уже зарегистрирован
+   at PasswordManager.LoginForm.RegisterUser(String username, String password) in C:\Users\nmart\source\repos\WinFormsApp2\WinFormsApp2\LoginForm.cs:line 280
+   at PasswordManager.LoginForm.btnRegister_Click(Object sender, EventArgs e) in C:\Users\nmart\source\repos\WinFormsApp2\WinFormsApp2\LoginForm.cs:line 74
+
